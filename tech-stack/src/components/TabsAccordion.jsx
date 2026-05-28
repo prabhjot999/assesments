@@ -4,19 +4,19 @@ import { useState } from "react";
 
 const tabData = [
   {
-    title: "HTML",
+    title: "landing page ",
     content:
-      "HTML is used to structure webpages.",
+      "this landing page is built using react and swiper js for the slider. it has a responsive design and mdoern look.",
   },
   {
-    title: "CSS",
+    title: "products",
     content:
-      "CSS is used for styling and layouts.",
+      "there are 4 product list of shoes ",
   },
   {
-    title: "JavaScript",
+    title: "price",
     content:
-      "JavaScript adds interactivity to websites.",
+      "Select product first.",
   },
 ];
 
